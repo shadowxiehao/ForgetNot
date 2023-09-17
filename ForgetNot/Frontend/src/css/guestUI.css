@@ -1,0 +1,12 @@
+.guestbox {
+  margin-top: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #FAFAFA;
+  padding: 40px;
+}
+
+.text{
+	opacity:0.9;
+}

@@ -1,0 +1,8 @@
+.signupbox {
+  margin-top: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #FAFAFA;
+  padding: 50px;
+}
