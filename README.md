@@ -26,4 +26,8 @@ For a deep dive into ForgetNot's functionalities and system architecture, please
   - ![Image 4](./demo/ForgetNot_demo_image4.jpg)
   - ![Image 5](./demo/ForgetNot_demo_image5.jpg)
 
+## 💼 Contributions
+
+I contributed to some of the design aspects and handled a significant portion of the backend development. For details on other members' contributions and roles, please refer to the [README.pdf](./README.pdf) in the root directory.
+
 Dive into the world of efficient planning with **ForgetNot**. Thank you for exploring our platform!
